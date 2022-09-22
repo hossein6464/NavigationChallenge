@@ -5,9 +5,13 @@
 
 // 3. Data Binding by changing the code in the Main Activity and the Main Layout
 
-// 4.
+// 4. Click on the App level folder right click and create a Navigation Resource File
 
-// 5.
+// 5. Added 5 new Destination I also added action from each to the other one
+//      Go to the nav_graph xml click on the add button to create destination
+//      Chose a fragment
+//      On each fragment you will see a dot. Click on that dot hold it and add an action to the fragment you need
+//
 
 // 6.
 
