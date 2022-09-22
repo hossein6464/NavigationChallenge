@@ -3,7 +3,7 @@
 // 2. Root Level Gradle: All necessary plugin and build script google repositories and class path for safe garde
 // Safe gard is for transferring data between two destination
 
-// 3.
+// 3. Data Binding by changing the code in the Main Activity and the Main Layout
 
 // 4.
 
